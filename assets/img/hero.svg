@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520">
+  <!-- Placeholder illustration in the Maysoor flat style.
+       Replace with the final Malik & Nour character art when ready. -->
+  <circle cx="260" cy="270" r="220" fill="#CCF2EE"/>
+  <ellipse cx="260" cy="468" rx="190" ry="18" fill="#00A896" opacity="0.18"/>
+
+  <!-- Floating coins -->
+  <g>
+    <circle cx="120" cy="120" r="26" fill="#FFB703"/><circle cx="120" cy="120" r="17" fill="#FFD166"/>
+    <circle cx="410" cy="96" r="20" fill="#FFB703"/><circle cx="410" cy="96" r="13" fill="#FFD166"/>
+    <circle cx="448" cy="210" r="14" fill="#FFB703"/>
+    <path d="M86 230l6 12 13 2-10 9 3 13-12-7-12 7 3-13-10-9 13-2z" fill="#FF5733"/>
+  </g>
+
+  <!-- Piggy bank -->
+  <g>
+    <ellipse cx="262" cy="330" rx="104" ry="86" fill="#FF8A70"/>
+    <ellipse cx="262" cy="316" rx="86" ry="62" fill="#FFA38F"/>
+    <path d="M206 262l-18-40 44 22z" fill="#FF8A70"/>
+    <path d="M318 262l18-40-44 22z" fill="#FF8A70"/>
+    <rect x="232" y="246" width="60" height="10" rx="5" fill="#1E293B"/>
+    <ellipse cx="262" cy="350" rx="30" ry="22" fill="#FF8A70"/>
+    <circle cx="252" cy="350" r="5" fill="#1E293B"/><circle cx="272" cy="350" r="5" fill="#1E293B"/>
+    <circle cx="228" cy="312" r="7" fill="#1E293B"/><circle cx="296" cy="312" r="7" fill="#1E293B"/>
+    <path d="M244 380c10 8 26 8 36 0" fill="none" stroke="#1E293B" stroke-width="5" stroke-linecap="round"/>
+    <rect x="200" y="400" width="26" height="46" rx="12" fill="#FF8A70"/>
+    <rect x="298" y="400" width="26" height="46" rx="12" fill="#FF8A70"/>
+    <!-- coin dropping in -->
+    <circle cx="262" cy="214" r="22" fill="#FFB703"/><circle cx="262" cy="214" r="14" fill="#FFD166"/>
+  </g>
+
+  <!-- Nour (right, RTL reading starts here) -->
+  <g>
+    <rect x="378" y="330" width="78" height="118" rx="36" fill="#FFB703"/>
+    <circle cx="417" cy="282" r="44" fill="#E6B08A"/>
+    <path d="M371 282c0-34 20-54 46-54s46 20 46 54c0 14-4 30-10 40h-72c-6-10-10-26-10-40z" fill="#007A6D"/>
+    <circle cx="417" cy="292" r="36" fill="#E6B08A"/>
+    <circle cx="404" cy="290" r="4.5" fill="#1E293B"/><circle cx="430" cy="290" r="4.5" fill="#1E293B"/>
+    <path d="M406 306c7 6 15 6 22 0" fill="none" stroke="#1E293B" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="396" cy="302" r="5" fill="#FF8A70" opacity="0.6"/><circle cx="438" cy="302" r="5" fill="#FF8A70" opacity="0.6"/>
+    <rect x="352" y="346" width="40" height="18" rx="9" fill="#E6B08A" transform="rotate(-24 372 355)"/>
+  </g>
+
+  <!-- Malik (left) -->
+  <g>
+    <rect x="62" y="322" width="84" height="126" rx="36" fill="#00A896"/>
+    <circle cx="104" cy="278" r="42" fill="#C98E66"/>
+    <path d="M62 272c0-26 18-44 42-44s42 18 42 44c-8-12-22-18-42-18s-34 6-42 18z" fill="#1E293B"/>
+    <circle cx="92" cy="282" r="4.5" fill="#1E293B"/><circle cx="116" cy="282" r="4.5" fill="#1E293B"/>
+    <path d="M93 298c7 6 15 6 22 0" fill="none" stroke="#1E293B" stroke-width="4" stroke-linecap="round"/>
+    <rect x="132" y="336" width="42" height="18" rx="9" fill="#C98E66" transform="rotate(24 152 345)"/>
+    <circle cx="178" cy="362" r="16" fill="#FFB703"/><circle cx="178" cy="362" r="10" fill="#FFD166"/>
+  </g>
+</svg>
